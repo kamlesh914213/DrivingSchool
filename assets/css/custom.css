@@ -1,0 +1,52 @@
+.main-slider-two__title {
+    font-size: 46px;
+    line-height: 64px;
+    letter-spacing: unset;
+}
+
+.main-header .info-item:nth-child(1) {
+    border-right: unset;
+}
+
+.lastcard {
+    /* margin: 0 auto; */
+    /* margin-top: 30px; */
+}
+
+.mtoText {
+    padding-bottom: 30px;
+}
+
+.category-one__content {
+    padding: 10px 10px 10px 10px;
+}
+
+.category-one__content__title {
+    padding-top: 31px;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.develop-skill{
+    padding-top: 0;
+}
+.ourMission{
+    padding-top: 80px;
+}
+.service-two__single__content {
+    padding: 20px 20px 22px 20px;
+}
+.service-two__single__content__text{
+    padding-bottom: 20px;
+}
+.service-two__single__content__title {
+    font-size: 20px;
+}
+.main-footer__inner-logo{
+    background-color: #fff;
+}
+.testimonials-one {
+    margin-top: 60px;
+}
+/* .footer-widget__info li, .footer-widget__links li{
+    padding-bottom: 20px;
+} */
